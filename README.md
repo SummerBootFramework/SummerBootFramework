@@ -1,5 +1,5 @@
 ### In Code We Trust 👋
-![image](https://github.com/SummerBootFramework/jExpress/blob/main/SummerBootOverview.png)
+![image](hwangcaifugui.jpg)
 
 <!--
 **SummerBootFramework/SummerBootFramework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

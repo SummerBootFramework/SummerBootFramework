@@ -1,5 +1,5 @@
 ### In Code We Trust 👋
-![image](hwangcaifugui.jpg)
+![image](wangcaifugui.jpg)
 
 <!--
 **SummerBootFramework/SummerBootFramework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

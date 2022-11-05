@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a demo respsitory
-- - 🌱 I’m currently learning plantuml
-- - ⚡ Moving from Java 11 to Java 17
+- 🌱 I’m currently learning plantuml
+- ⚡ Moving from Java 11 to Java 17

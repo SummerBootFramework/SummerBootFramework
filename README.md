@@ -1,4 +1,4 @@
-### In Code We Trust 👋
+### The development team 👋
 ![image](wangcaifugui.jpg)
 
 <!--

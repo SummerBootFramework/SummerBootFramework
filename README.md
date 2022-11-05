@@ -1,4 +1,4 @@
-### My pair programming team 👋
+### The pair programming team 👋
 ![image](wangcaifugui.jpg)
 
 <!--

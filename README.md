@@ -1,6 +1,6 @@
 ### Summer Boot Framework Core has been officially named ✨jExpress✨
 
-### The pair programming team 👋
+### ⚡ Fun fact: The pair programming team 👋
 ![image](wangcaifugui.jpg)
 
 <!--
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on uploading a demo
+- 🔭 I’m currently working on a demo respsitory
 - - 🌱 I’m currently learning plantuml
-- - ⚡ Fun fact: Moving from Java 11 to Java 17
+- - ⚡ Moving from Java 11 to Java 17

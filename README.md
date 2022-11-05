@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on uploading a demo
 - - 🌱 I’m currently learning plantuml
+- - ⚡ Fun fact: Moving from Java 11 to Java 17

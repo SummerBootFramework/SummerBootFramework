@@ -1,4 +1,4 @@
-### Summer Boot Framework Core has been officially named ✨jExpress✨
+### Summer Boot Framework Core has been officially named ✨jExpress✨and jExpress.org is welcome to join our contributor team.
 
 ### The pair programming team 👋
 ![image](wangcaifugui.jpg)

@@ -1,4 +1,7 @@
-### Summer Boot Framework Core has been officially named ✨jExpress✨and jExpress.org is welcome to join our contributor team.
+## For better  development and support, Summer Boot's product line will be divided into the following two:
+1. Proprietary: ✨Summer Boot Services✨ will continue to be supported by summerboot.org and focus on legal business related services
+2. Open source: ✨Summer Boot jExpress✨ (a.k.a. Summer Boot Framework Core) will be supported by jExpress.org and focus on non-business operation and maintenance infrastructure functions, and serve as a rapid development framework for Summer Boot Services.
+
 
 ### The pair programming team 👋
 ![image](wangcaifugui.jpg)

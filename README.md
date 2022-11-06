@@ -1,6 +1,7 @@
 ## For better  development and support, Summer Boot's product line will be divided into the following two:
 1. Proprietary: ✨Summer Boot Services✨ will continue to be supported by summerboot.org and focus on legal or other business related services.
 2. Open source: ✨Summer Boot jExpress✨ (a.k.a. Summer Boot Framework Core) will be supported by jExpress.org and focus on non-business operation and maintenance infrastructure functions, and serve as a rapid development framework for Summer Boot Services.
+
 ![image](https://github.com/SummerBootFramework/jExpress/blob/main/SummerBootOverview.png)
 
 ### The pair programming team 👋
